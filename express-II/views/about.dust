@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>This is my about page</title>
+	<link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+<body>
+	<h1>My name is Simon Lervad</h1>
+	<p>An im making a page about DUST</p>
+	<a href="/">Home</a>
+    <a href="continents">Continents</a>
+    <a href="about">About</a>
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{title}</title>
+	<link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+<body>
+	<h1>Welcome to {title}</h1>
+	<p>Here you weill learn about {title}</p>
+	<a href="/">Home</a>
+    <a href="continents">Continents</a>
+    <a href="about">About</a>
+    <table>
+    	<tr>
+    		<td>
+    			<p>{obj.Antarctica}</p>
+    		</td>
+    	</tr>
+    	<tr>
+    		<td>
+    			<p>{obj.Africa}</p>
+    		</td>
+    	</tr>
+    	<tr>
+    		<td>
+    			<p>{obj.Asia}</p>
+    		</td>
+    	</tr>
+    	<tr>
+    		<td>
+    			<p>{obj.Europe}</p>
+    		</td>
+    	</tr>
+    	<tr>
+    		<td>
+    			<p>{obj.Oceania}</p>
+    		</td>
+    	</tr>
+    	<tr>
+    		<td>
+    			<p>{obj.NorthAmerica}</p>
+    		</td>
+    	</tr>
+    	<tr>
+    		<td>
+    			<p>{obj.SouthAmerica}</p>
+    		</td>
+    	</tr>
+    </table>
+</body>
+</html>
